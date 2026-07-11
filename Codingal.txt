@@ -1,0 +1,2 @@
+File in write mode - Hello world!
+File in append mode - Hello world!
